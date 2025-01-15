@@ -1,6 +1,6 @@
 package hello.typeconverter.controller;
 
-import hello.typeconverter.controller.type.IpPort;
+import hello.typeconverter.type.IpPort;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

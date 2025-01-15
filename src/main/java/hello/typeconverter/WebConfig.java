@@ -1,9 +1,9 @@
 package hello.typeconverter;
 
-import hello.typeconverter.controller.converter.IntegerToStringConverter;
-import hello.typeconverter.controller.converter.IpPortToStringConverter;
-import hello.typeconverter.controller.converter.StringToIntegerConverter;
-import hello.typeconverter.controller.converter.StringToIpConverter;
+import hello.typeconverter.converter.IntegerToStringConverter;
+import hello.typeconverter.converter.IpPortToStringConverter;
+import hello.typeconverter.converter.StringToIntegerConverter;
+import hello.typeconverter.converter.StringToIpConverter;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.format.FormatterRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;

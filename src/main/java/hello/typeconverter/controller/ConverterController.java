@@ -1,6 +1,6 @@
 package hello.typeconverter.controller;
 
-import hello.typeconverter.controller.type.IpPort;
+import hello.typeconverter.type.IpPort;
 import lombok.Data;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
